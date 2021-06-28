@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508419031 source:c:\users\toshiba\documents\c++\advance(p2)\read_file_advancelly\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

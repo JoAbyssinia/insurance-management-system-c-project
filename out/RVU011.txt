@@ -1,0 +1,21 @@
+account ID :1
+full name :Amanuel Kassa Yimam
+age :12
+phone number :09124578
+city :nazareth
+kebelewereda :12
+Home No. :123
+Profession :studebr
+property type : vehicle 
+Price of property :120000
+Insurance coverage pried of time :12
+		UNITD INSURANCE COMPANY p.l.c agreement statement
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ dear Mr/Ms. Yohanes Kassa Yimam.doc. the company gives a care service insurance for all 
+your properties. understand the insurance is limited by  you given pried, the insured person must
+ be know the payment system and other things are strictly checked by system. we gives for you a great 
+service for all problem will happen 
+Insurance payment per year $ :1200
+		SUSSESFULLY REGISTORD 
+
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
